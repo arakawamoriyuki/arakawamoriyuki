@@ -29,10 +29,10 @@ Here are some ideas to get you started:
 
 <p align="left">
   <a href="https://github-readme-stats.vercel.app/api?username=arakawamoriyuki">
-    <img height="250" src="https://github-readme-stats.vercel.app/api?username=arakawamoriyuki" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=arakawamoriyuki" />
   </a>
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=arakawamoriyuki&layout=compact">
-    <img height="250" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arakawamoriyuki&layout=compact" />
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arakawamoriyuki&layout=compact" />
   </a>
 </p>
 
