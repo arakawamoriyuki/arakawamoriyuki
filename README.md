@@ -36,6 +36,8 @@ Here are some ideas to get you started:
   </a>
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=arakawamoriyuki)](https://github.com/ryo-ma/github-profile-trophy)
+
 <!--START_SECTION:lapras-card-->
 <a href="https://lapras.com/public/QZZAOMA" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.55&b=2.85&i=3.13&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>
 Last Updated on 6/3/2023, 6:50:25 AM
