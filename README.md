@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 
 <p align="left">
+  <a href="https://github.com/arakawamoriyuki/arakawamoriyuki/">
+    <img src="https://komarev.com/ghpvc/?username=arakawamoriyuki" alt="arakawamoriyuki" />
+  </a>
   <a href="https://github.com/arakawamoriyuki">
     <img height="20" src="https://img.shields.io/github/followers/arakawamoriyuki?label=follow&logo=github&style=flat" />
   </a>
