@@ -59,6 +59,6 @@ Here are some ideas to get you started:
 </p>
 
 <!--START_SECTION:lapras-card-->
-<a href="https://lapras.com/public/QZZAOMA" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.55&b=3.43&i=3.13&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 6/11/2023, 1:18:16 AM
+<a href="https://lapras.com/public/QZZAOMA" target="_blank" rel="noopener noreferrer"><img src="https://lapras-card-generator.vercel.app/api/svg?e=3.55&b=3.43&i=3.12&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
+Last Updated on 6/12/2023, 1:14:02 AM
 <!--END_SECTION:lapras-card-->
