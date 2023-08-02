@@ -60,5 +60,5 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:lapras-card-->
 <p ><a href="https://lapras.com/public/QZZAOMA" target="_blank" rel="noopener noreferrer"><img alt="QZZAOMAのLAPRASでのスコアは次の通りです: エンジニアリング: 3.56 / 5.0, ビジネス: 3.43 / 5.0, インフルエンス: 3.15 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.56&b=3.43&i=3.15&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
-Last Updated on 8/1/2023, 1:07:47 AM</p>
+Last Updated on 8/2/2023, 12:59:33 AM</p>
 <!--END_SECTION:lapras-card-->
