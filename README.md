@@ -60,8 +60,8 @@ Here are some ideas to get you started:
 </p>
 -->
 
-[![](./1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](./3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](./profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](./profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 <!--START_SECTION:lapras-card-->
 <p ><a href="https://lapras.com/public/QZZAOMA" target="_blank" rel="noopener noreferrer"><img alt="QZZAOMAのLAPRASでのスコアは次の通りです: エンジニアリング: 3.86 / 5.0, ビジネス: 3.48 / 5.0, インフルエンス: 3.17 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=3.86&b=3.48&i=3.17&b1=%23020E27&b2=%230E5593&i1=%23030E21&i2=%231688BF&l=ja" width="400" ></a>  
